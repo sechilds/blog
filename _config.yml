@@ -1,0 +1,13 @@
+# Site settings
+title: Stephen's Research Blog
+email: sechilds@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A very simple blog dedicated to describing some of my research
+  work.
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+url: "http://sechilds.github.io/blog/" # the base hostname & protocol for your site
+twitter_username: sechilds
+github_username:  sechilds
+
+# Build settings
+markdown: kramdown
